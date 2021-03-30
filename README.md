@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @nakanakatanaka
 
-- vue
+- [scrap box](https://scrapbox.io/n4ge5hi-42836352/)
